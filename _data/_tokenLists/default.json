@@ -10,7 +10,7 @@
     "timestamp": "2023-10-01T18:18:00+00:00",
     "version": {
         "major": 1,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
     "tokens": [
@@ -28,11 +28,11 @@
         },
         {
             "chainId": 210,
-            "address": "0xc9BDBA447C18651FeC1871c3dA25bF1eB4F1fa8e",
+            "address": "0x738f255b9d3386e49e1c4392a9c7d850c6c7c86d",
             "symbol": "STRAT",
             "name": "Stratus",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/210/0xc9BDBA447C18651FeC1871c3dA25bF1eB4F1fa8e/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/210/0x738f255b9d3386e49e1c4392a9c7d850c6c7c86d/logo.png",
             "tags": [
                 "stratus",
                 "xenwave"
