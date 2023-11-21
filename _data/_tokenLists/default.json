@@ -10,7 +10,7 @@
     "timestamp": "2023-10-01T18:18:00+00:00",
     "version": {
         "major": 1,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
     "tokens": [
@@ -60,17 +60,6 @@
             "name": "BitPepe",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/210/0xcf2a260d542ea809e0044369aA0CC11d0c14C715/logo.png",
-            "tags": [
-                "meme"
-            ]
-        },
-        {
-            "chainId": 210,
-            "address": "0x66562574f9aE380A530757A7703061B11BCCDa94",
-            "symbol": "NICK",
-            "name": "Nick",
-            "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/210/0x66562574f9ae380a530757a7703061b11bccda94/logo.png",
             "tags": [
                 "meme"
             ]
