@@ -1,0 +1,33 @@
+{
+    "collections": [
+        {
+            "chainId": 550,
+            "ownerAddress": "0x...",
+            "collectionAddress": "0x...",
+            "collectionName": "Collection Name",
+            "collectionDescription": 
+                "Here you can write a brief description of your collection and what it is all about.",
+            "collectionReleaseDate": "01/01/2024",
+            "profilePictureUrl": "https://yourprofilepicture.url/here.png",
+            "bannerUrl": "https://yourbanner.url/here.png",
+            "royaltyFee": "1000",
+            "artistName": "NFT Artist Example",
+            "mintingUrl": "https://minting.url",
+            "socialLinks": {
+                "website": "https://website.link",
+                "discord": "https://discord.link",
+                "github": "https://github.link",
+                "medium": "https://medium.link",
+                "substack": "https://substack.link",
+                "reddit": "https://reddit.link",
+                "telegram": "https://telegram.link",
+                "x": "https://x.link"
+            },
+            "auditLinks": {
+                "audited": false,
+                "auditUrl": "https://audit.url"
+            },
+            "tags": ["tags", "for", "your", "collection"]
+        }
+    ]
+}
