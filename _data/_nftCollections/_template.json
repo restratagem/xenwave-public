@@ -1,4 +1,6 @@
 {
+    "featuredCollection": ["..."],
+    "editorPicks": ["..."],
     "collections": [
         {
             "chainId": 550,
