@@ -1,26 +1,26 @@
 [
     {
-      "id": "0",
+      "id": 0,
       "label": "All"
     },
     {
-      "id": "1",
+      "id": 1,
       "label": "Art & Photography"
     },
     {
-      "id": "2",
+      "id": 2,
       "label": "Cards & Collectibles"
     },
     {
-      "id": "3",
+      "id": 3,
       "label": "Metaverse NFTs"
     },
     {
-      "id": "4",
+      "id": 4,
       "label": "fNFTs"
     },
     {
-      "id": "5",
+      "id": 5,
       "label": "Other NFTs"
     }
   ]
