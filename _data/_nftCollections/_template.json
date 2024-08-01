@@ -5,7 +5,7 @@
         {
             "chainId": 550,
             "ownerAddress": "0x...",
-            "collectionAddress": "0x...",
+            "address": "0x...",
             "collectionName": "Collection Name",
             "collectionDescription": 
                 "Here you can write a brief description of your collection and what it is all about.",
