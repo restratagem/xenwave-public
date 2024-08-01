@@ -33,8 +33,8 @@
         },
         {
             "chainId": 210,
-            "ownerAddress": "0x5340CCA495De0825c4f7f3d4E63ee1b49280A966",
-            "collectionAddress": "0x2142c6dDBfa7ae9E283d0FbFFFfbe14E502D6265",
+            "ownerAddress": "0x480E81C95a20c6e8Ef95337A62d5D144db67c292",
+            "collectionAddress": "0x2142c6ddbfa7ae9e283d0fbffffbe14e502d6265",
             "collectionName": "The Village: Founders Edition",
             "collectionDescription": 
                 "An exciting one-for-one NFT collection with 128 exclusive art pieces. The Village is a fantasy medieval world in which our villagers live, fight, conquer, and die.",
@@ -42,7 +42,7 @@
             "profilePictureUrl": "https://yourprofilepicture.url/here.png",
             "bannerUrl": "https://yourbanner.url/here.png",
             "royaltyFee": "1000",
-            "artistName": "Xenwave Team",
+            "artistName": "ZNX",
             "mintingUrl": "https://village.xenwave.com",
             "socialLinks": {
                 "website": "https://village.xenwave.com",
