@@ -4,9 +4,10 @@
     "collections": [
         {
             "chainId": 550,
+            "category": 1,
             "ownerAddress": "0x...",
             "address": "0x...",
-            "collectionName": "Collection Name",
+            "name": "Collection Name",
             "collectionDescription": 
                 "Here you can write a brief description of your collection and what it is all about.",
             "collectionReleaseDate": "01/01/2024",
