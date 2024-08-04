@@ -153,6 +153,36 @@
                 "auditUrl": ""
             },
             "tags": ["the", "village", "nft", "collection"]
+        },
+        {
+            "chainId": 210,
+            "category": 1,
+            "ownerAddress": "0xcAaB1Da52e939D6a53b252A80cf7C1d98fd4712B",
+            "address": "0xd03b179692303741393ee9a26e34e5ef4593741f",
+            "name": "Bitnet Punks",
+            "description": 
+                "The collection consists of a total of 714 items, corresponding to the birth date of BitNet. Among them, there are 16 Punks with a red background, 32 Punks with a pink background, 64 Punks with a purple background, 502 Punks with a blue background, and 100 Masayoshi Punks with a gray background. Each Punk has a unique feature.",
+            "collectionReleaseDate": "04/04/2024",
+            "profilePictureUrl": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_nftCollections/210/0xd03b179692303741393ee9a26e34e5ef4593741f/profile.gif",
+            "bannerUrl": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_nftCollections/210/0xd03b179692303741393ee9a26e34e5ef4593741f/banner.png",
+            "royaltyFee": "1000",
+            "artistName": "#000ggggg",
+            "mintingUrl": "",
+            "socialLinks": {
+                "website": "https://discord.gg/mHuejQNv",
+                "discord": "https://discord.gg/mHuejQNv",
+                "github": "",
+                "medium": "",
+                "substack": "",
+                "reddit": "",
+                "telegram": "",
+                "x": ""
+            },
+            "auditLinks": {
+                "audited": false,
+                "auditUrl": ""
+            },
+            "tags": ["bitnet", "punks", "nft", "collection"]
         }
     ]
 }
